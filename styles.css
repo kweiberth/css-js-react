@@ -1,0 +1,21 @@
+/*
+main.css
+*/
+
+.button {
+  color: black;
+  border: 1px solid black;
+  border-radius: 4px;
+  text-align: center;
+  padding: 10px;
+  margin: 20px 0;
+  width: 150px;
+}
+
+.button-disabled {
+  color: lightgrey;
+}
+
+body {
+  padding: 20px;
+}
