@@ -1,6 +1,6 @@
-/*
-main.css
-*/
+body {
+  padding: 20px;
+}
 
 .button {
   color: black;
@@ -16,6 +16,3 @@ main.css
   color: lightgrey;
 }
 
-body {
-  padding: 20px;
-}
